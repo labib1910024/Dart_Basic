@@ -4,6 +4,6 @@ void main() {
   var bool = true;
   print(number.runtimeType); // prints "int"
   print(text.runtimeType); // prints "String"
-  print(bool.runtimeType);
+  print(bool.runtimeType); // prints "int"
 
 }
